@@ -1,0 +1,7 @@
+conda activate tf-gpu
+
+cd C:\Users\Tyler\Desktop\word-rnn-tensorflow-master
+
+python train.py
+
+python sample.py
